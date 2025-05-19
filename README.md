@@ -6,15 +6,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **IOT PROJECT**
+ 🔭 I’m currently working on **AI AND NEW TECH PROJECTS**
 
- 👯 I’m looking to collaborate on **INTERNSHIPS**
+ 👯 I’m done global certifications SERVICENOW **CAD & CSA **
  
- 🌱 I’m currently learning **JS , Power BI , Tableau**
+ 🌱 I’m currently learning **JS , SERVICENOW DEVELOPER & ADMINISTRATOR**
 
  📫 How to reach me **narendrashivasai1234@gmail.com**
-
-💬 Ask me about **Fun Things>>**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
