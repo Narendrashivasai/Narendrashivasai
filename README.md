@@ -6,11 +6,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI AND NEW TECH PROJECTS**
+ 🔭  **Java Full Stack Developer**
 
- 👯 I’m done global certifications SERVICENOW **CAD & CSA **
+  🌱 I’m currently learning ** SERVICENOW DEVELOPER & ADMINISTRATOR**
+
+ 👯 I’m done global certifications SERVICENOW **Certified System Administrator & Certified Application Developer**
  
- 🌱 I’m currently learning **JS , SERVICENOW DEVELOPER & ADMINISTRATOR**
+ 🌱 I’m currently learning ** New Tech Elements**
 
  📫 How to reach me **narendrashivasai1234@gmail.com**
 
