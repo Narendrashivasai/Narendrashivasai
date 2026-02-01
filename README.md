@@ -8,7 +8,7 @@
  
  🔭  **Java Full Stack Developer**
 
- 👯 I’m done global certifications SERVICENOW **Certified System Administrator & Certified Application DEVELOPER**
+ 👯 I’m done global certifications on SERVICENOW **Certified System Administrator & Certified Application DEVELOPER**
  
  🌱 I’m currently learning ** New Tech Elements**
 
